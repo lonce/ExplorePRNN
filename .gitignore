@@ -2,8 +2,8 @@
 DOCS
 output/*
 paramManager
-AudioDataLoader
-audioDataLoader
+AudioDataLoader/
+audioDataLoader/
 .ipynb_checkpoints
 */__pycache__
 
